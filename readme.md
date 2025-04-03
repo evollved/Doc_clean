@@ -47,7 +47,7 @@ python doc_clean.py
 - Tkinter (GUI интерфейс)
 
 ## 📄 Примеры работы
-ttps://github.com/evollved/Doc_clean/blob/main/1.jpeg
+https://github.com/evollved/Doc_clean/blob/main/1.jpeg
 
 https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf
 
