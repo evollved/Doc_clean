@@ -47,10 +47,9 @@ python doc_clean.py
 - Tkinter (GUI интерфейс)
 
 ## 📄 Примеры работы
+ttps://github.com/evollved/Doc_clean/blob/main/1.jpeg
 
-| Исходное изображение | Результат обработки |
-|----------------------|---------------------|
-| ![Пример1](https://github.com/evollved/Doc_clean/blob/main/1.jpeg) | ![Пример1](https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf) |
+https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf
 
 ## 📜 Лицензия
 
