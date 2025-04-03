@@ -50,7 +50,7 @@ python doc_clean.py
 
 | Исходное изображение | Результат обработки |
 |----------------------|---------------------|
-| ![Пример1](https://example.com/before.jpg) | ![Пример1](https://example.com/after.jpg) |
+| ![Пример1](https://github.com/evollved/Doc_clean/blob/main/1.jpeg) | ![Пример1](https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf) |
 
 ## 📜 Лицензия
 
