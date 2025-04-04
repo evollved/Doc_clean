@@ -38,9 +38,9 @@
 
 ## 📄 Примеры работы
 
-![1](https://github.com/user-attachments/assets/1277c264-6faf-4914-9298-2cb0aad10c56)
+![1](https://github.com/user-attachments/assets/18324f81-fa9a-4f1f-b851-671c4f65f8b0)
 
-![1_processed](https://github.com/user-attachments/assets/b95bcb0f-c5c3-4b9d-94c3-eed8759af90d)
+![1_processed](https://github.com/user-attachments/assets/15afa525-bca5-4f79-b7e0-b265fe42753a)
 
 ![Обработанное PDF](https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf)
 
