@@ -16,9 +16,7 @@
 
 1. Запустите программу:
 
-```
 ./doc_clean.bin
-```
 
 2. Выберите изображения через диалоговое окно
 
@@ -40,11 +38,10 @@
 
 ## 📄 Примеры работы
 
-![1](https://github.com/user-attachments/assets/18324f81-fa9a-4f1f-b851-671c4f65f8b0)
+![1](https://github.com/user-attachments/assets/1d503395-f8da-4350-8306-fab7ac491cd1)
 
-![1_processed](https://github.com/user-attachments/assets/15afa525-bca5-4f79-b7e0-b265fe42753a)
+![1_processed](https://github.com/user-attachments/assets/43da1f03-7321-4b2c-88a0-16759d530de7)
 
-![Обработанное PDF](https://github.com/evollved/Doc_clean/blob/main/1_processed.pdf)
 
 ## 📜 Лицензия
 
